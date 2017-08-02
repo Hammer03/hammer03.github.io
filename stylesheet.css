@@ -1,6 +1,8 @@
 #header {
+    text-align: center;
+    background: blue;
     font-family: monospace
-    font-size: 40px;
+    font-size: 25px;
 }
 span {
     color: red;
@@ -11,4 +13,10 @@ img {
 }
 table, td {
     border: 1px #70b8ff solid;
+}
+body {
+    background-image: url(https://c1.staticflickr.com/6/5052/5518992555_e7119f4017_b.jpg)
+}
+p {
+    color: white
 }
