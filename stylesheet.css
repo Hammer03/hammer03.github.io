@@ -13,10 +13,18 @@ img {
 }
 table, td {
     border: 1px #70b8ff solid;
+    border-radius: 5px;
 }
 body {
     background-image: url(https://c1.staticflickr.com/6/5052/5518992555_e7119f4017_b.jpg)
+    
 }
 p {
     color: white
+}
+.tableh {
+    font-family: cursive;
+    color: purple;
+    font-size: 18px;
+    text-align: 
 }
