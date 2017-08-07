@@ -1,23 +1,22 @@
 #header {
     text-align: center;
     background: blue;
-    font-family: monospace
-    font-size: 25px;
+    font-family: monospace;
+    font-size: 6em;
 }
 span {
     color: red;
 }
 img {
-    width: 100px;
-    height: 100px;
+    width: 175px;
+    height: 150px;
 }
 table, td {
     border: 1px #70b8ff solid;
     border-radius: 5px;
 }
 body {
-    background-image: url(https://c1.staticflickr.com/6/5052/5518992555_e7119f4017_b.jpg)
-    
+    background-image: url(https://c1.staticflickr.com/6/5052/5518992555_e7119f4017_b.jpg);
 }
 p {
     color: white
@@ -26,5 +25,12 @@ p {
     font-family: cursive;
     color: purple;
     font-size: 18px;
-    text-align: 
+    Margin: 5px 10px 5px 10px;
+    padding: 3px;
+}
+.footer {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    font-size: 11px;
+    
 }
